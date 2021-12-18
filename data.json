@@ -1,0 +1,21 @@
+{
+    "cards":[{
+        "img":"m1.jpg",
+        "name":"iphone",
+        "price":"9999",
+        "offerprice":"6999",
+        "button":"View"
+    },{
+        "img":"m5.jpg",
+        "name":"iphone rose-gold",
+        "price":"99999",
+        "offerprice":"79999",
+        "button":"View"
+    },{
+        "img":"m6.webp",
+        "name":"iphone black",
+        "price":"69999",
+        "offerprice":"54999",
+        "button":"View"
+    }]
+}
